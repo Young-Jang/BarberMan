@@ -1,2 +1,2 @@
 # BarberMan
-## Detecting your whiskers and recommend style
+## Detecting your whiskers and recommend style app
