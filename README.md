@@ -32,7 +32,7 @@ Usage
 
 * detecting face
 
-<img src="ttps://user-images.githubusercontent.com/45625434/79198032-c59a9a00-7e6d-11ea-981a-284c069fa06b.jpg" width="40%">
+<img src="https://user-images.githubusercontent.com/45625434/79198032-c59a9a00-7e6d-11ea-981a-284c069fa06b.jpg" width="40%">
 
 * detecting beard area
 
